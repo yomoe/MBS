@@ -1,0 +1,13 @@
+alembic>=1.14.0
+SQLAlchemy>=2.0.36
+fastapi>=0.115.4
+uvicorn
+pydantic>=2.10.0b1
+environs>=11.0.0
+betterlogging>=1.0.0
+psycopg[binary]>=3.2.3
+asyncpg
+greenlet
+faker
+beautifulsoup4
+requests
